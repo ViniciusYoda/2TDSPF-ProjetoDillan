@@ -1,1 +1,1 @@
-Projeto exemplo de uso do GIT com e sem Clients
+Projeto exemplo de uso do GIT flow com e sem Clients
